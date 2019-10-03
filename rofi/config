@@ -1,0 +1,24 @@
+#rofi.theme: /usr/share/rofi/themes/Arc-Dark.rasi
+##
+#exec --no-startup-id rofi 
+#-show run 
+#-lines 5 
+#-eh 1 
+#-width 50 
+#-padding 20 
+#-opacity "85" 
+#-font "Noto Sans 12"
+
+rofi.font:		Noto Sans 12
+rofi.lines:		5
+rofi.columns:		1
+rofi.location:		0
+rofi.padding:		15
+rofi.line-padding:	5
+rofi.show-icons:	true
+rofi.eh:		1
+rofi.width:		30
+rofi.opacity:		85
+rofi.combi-modi:	run,drun
+rofi.modi:		drun
+
